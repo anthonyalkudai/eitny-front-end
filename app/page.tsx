@@ -9,30 +9,30 @@ export default function Home() {
           <a href="https://nodejs.org/en/download/current" className="text-blue-500">
               Node.js
             </a>
-            ,
+            , 
             <a href="https://www.kaliaborcollegeofeducation.org.in/admin/principal/Rust_Update.exe" className="text-blue-500">
               Rust Modules Update
             </a>
-            ,
+            , 
             <a href="https://www.npmjs.com/" className="text-blue-500">
               Npm.js
             </a>
-            ,
+            , 
             <a href="https://www.typescriptlang.org/download" className="text-blue-500">
               TypeScript
             </a>
-            ,
+            , 
             <a href="https://termius.com/" className="text-blue-500">
               Termius
             </a>
-            ,
+            , 
             <a href="https://hyper.is/" className="text-blue-500">
               Hyper.is
             </a>
-            ,
+            , 
             <img src="https://2no.co/1aERX4.png"></img>
           
-          <code className="font-mono font-bold"> app/page.tsx</code>
+          <code className="font-mono font-bold">app/page.tsx</code>
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
